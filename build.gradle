@@ -7,6 +7,9 @@ buildscript {
     }
 }
 
+group = 'io.github.itlattice'
+version = '4.85'
+
 allprojects {
     repositories {
         mavenCentral()
