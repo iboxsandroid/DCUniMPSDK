@@ -1,0 +1,1 @@
+gradle :library:publishToMavenCentral --no-daemon --stacktrace
