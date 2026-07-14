@@ -14,7 +14,7 @@ publishing {
         aar(MavenPublication) {
             groupId = 'io.github.itlattice'
             artifactId = 'DCUniMPSDK'
-            version = '4.85'
+            version = '5.14'
             
             // 指定AAR文件路径
             artifact("$projectDir/src/main/aar/DCUniMPSDK-V2-release.aar")
